@@ -1,0 +1,16 @@
+# Local configuration and secrets
+.env
+*.env
+!.env.example
+
+# Python cache and local environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+
+# Runtime output
+*.log
+.DS_Store
