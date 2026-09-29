@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+google-genai
+python-multipart
+streamlit
+requests
+python-docx
+reportlab
+Pillow
